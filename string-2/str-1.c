@@ -8,7 +8,7 @@
 //	printf("%s %s %s\n", str1, str2, str3);
 //	return 0;
 //}
-int main()
+int main(void)
 {
 	int i;
 	char str[6];
