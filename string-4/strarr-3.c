@@ -2,7 +2,7 @@
 #define _CRT_SECURE_NO_WARNINGS//보안경고를 무시하겠다
 #include <stdio.h>//표준 입출력 헤더파일
 #include <string.h>//문자열 헤더파일
-int main()
+int main(void)
 {
 	int i, index;// i는 반복문용, index는 찾은 단어의 인덱스용 변수
 	char dic[page][2][30] = {
