@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-int main()
+int main(void)
 {
 	int i;
 	char fruits[3][20];//0~2행 0~19행, 3개 행 20개 열
